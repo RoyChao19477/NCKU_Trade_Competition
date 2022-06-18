@@ -1,5 +1,14 @@
 # DSAI-HW3-2021
 
+## Requirements:
+- python = 3.8 (**TA required**)
+- Step 0 : use `pipenv install` to install dependency.
+
+## How to run ?
+- Step 1 : use `pipenv shell` to activate environment
+- Step 2 : use `python main.py` to run
+
+## Official Requirements:
 ### Source
 
   - [Slide](https://docs.google.com/presentation/d/1JW27_5HXYZhqWmgvDhtXBaFTOfksO_dS/edit#slide=id.p1)
